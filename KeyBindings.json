@@ -1,0 +1,14 @@
+{
+"shortcuts": [
+        {
+        // Clear cell output
+		 "command": "notebook:clear-cell-output",
+		 "keys": [
+		 "O"
+		 ],
+		 "selector": ".jp-Notebook:focus",
+		 "title": "Clear cell output",
+		 "category": "Notebook Cell Operations"
+		}
+    ]
+}
